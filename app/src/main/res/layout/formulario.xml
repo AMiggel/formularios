@@ -65,7 +65,7 @@
                 android:layout_marginTop="50px"
                 android:ems="10"
                 android:inputType="textPersonName"
-                android:text="Name" />
+                android:text="Nombre" />
 
             <EditText
                 android:id="@+id/editText5"
